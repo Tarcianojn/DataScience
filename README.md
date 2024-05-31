@@ -1,2 +1,2 @@
 # DataScience
-Projetos desenviolvidos
+Projetos desenvolvidos
